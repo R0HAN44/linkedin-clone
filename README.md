@@ -1,4 +1,4 @@
-#Website Link - [Create React App](https://linkedin-clone-6dede.web.app/)
+### `Website Link` - [Create React App](https://linkedin-clone-6dede.web.app/)
 
 
 This project was built with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template and for database and authentication [Firebase](https://firebase.google.com/) was used.
