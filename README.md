@@ -1,6 +1,9 @@
-# Getting Started with Create React App and Redux
+#Website Link - [Create React App](https://linkedin-clone-6dede.web.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+This project was built with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template and for database and authentication [Firebase](https://firebase.google.com/) was used.
+
+# To Run this app on local machine follow these steps : 
 
 ## Available Scripts
 
